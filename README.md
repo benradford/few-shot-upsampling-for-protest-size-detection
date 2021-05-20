@@ -1,9 +1,9 @@
 # Few-Shot Upsampling for Protest Size Detection
 
-[Andrew Halterman](https://andrewhalterman.com) 
+[Andrew Halterman](https://andrewhalterman.com)  
 MIT 
 
-[Benjamin J. Radford](https://benradford.com) 
+[Benjamin J. Radford](https://benradford.com)  
 UNC Charlotte 
 
 Published in the *Findings of ACL 2021**.
