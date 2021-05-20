@@ -21,3 +21,5 @@ We propose a new task and dataset for a common problem in social science researc
 ### Requirements
 
 ### Creating the Dataset
+
+*For access to the original data, please contact the authors directly. Original data are provided for research purposes only.*
