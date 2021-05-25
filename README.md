@@ -6,7 +6,8 @@ MIT
 [Benjamin J. Radford](https://benradford.com)  
 UNC Charlotte 
 
-Published in the *Findings of ACL 2021*.
+Published in the *Findings of ACL 2021*.  
+Read the preprint on [arXiv:2105.11260](https://arxiv.org/abs/2105.11260)
 
 <hr>
  
