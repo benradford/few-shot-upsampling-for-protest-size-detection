@@ -19,6 +19,12 @@ We propose a new task and dataset for a common problem in social science researc
 
 ### Getting Started
 
+Create a new [Anaconda](https://www.anaconda.org) environment by running the following command in the root directory of this repository:
+
+```
+conda env create -f environment.yaml
+```
+
 ### Requirements
 
 ### Creating the Dataset
