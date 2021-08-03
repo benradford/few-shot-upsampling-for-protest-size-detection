@@ -1,0 +1,5 @@
+Place the following files in this directory:
+
+* ccc_span_tune.jsonl
+* ccc_test.jsonl
+* ccc_train.jsonl
